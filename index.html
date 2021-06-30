@@ -21,7 +21,9 @@
 
     <script>
     var dt = new Date();
+    var x = setInterval(function(){
     document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"-"+ (("0"+dt.getDate()).slice(-2)) +"-"+ (dt.getFullYear()) +" "+ dt.getHours()+":"+dt.getMinutes();
+    }, 1000)
     </script>
   </body>
 </html>
