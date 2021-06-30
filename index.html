@@ -17,5 +17,11 @@
       width="600"
       height="450" >
     <p> self picture taken on 2020/06/12 when I'm graduating from my senior high school.</p>
+    <p>Date/Time: <span id="datetime"></span></p>
+
+    <script>
+    var dt = new Date();
+    document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"-"+ (("0"+dt.getDate()).slice(-2)) +"-"+ (dt.getFullYear()) +" "+ (("0"+dt.getHours()+1).slice(-2)) +":"+ (("0"+dt.getMinutes()+1).slice(-2));
+    </script>
   </body>
 </html>
