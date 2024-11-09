@@ -1,25 +1,22 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received my Bachelor of Science degree in Electrical Engineering, minor Computer Science in [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU). Currently, I am working with [Prof. Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/) and [Skymizer Inc.](https://skymizer.com/) on efficient ML serving and design. Previously, I am also fortunate to join [IBM Research Almaden](https://research.ibm.com/labs/almaden) as an intern, mentored by [Dr. Geoffrey Burr](https://research.ibm.com/people/geoffrey-burr) and [Dr. HsinYu (Sidney) Tsai](https://research.ibm.com/people/sidney-tsai), and advised by [Prof. An-Yeu (Andy) Wu](https://www.ee.ntu.edu.tw/profile1.php?id=65), on the topic of Compute-In-Memory (CIM) for ML acceleration.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interest is about efficient ML serving, particularly hardware-efficient algorithms and systems design. My previous research includes interdisplinary topics in efficient ML serving design, including throughput-efficient inference on hardware, CIM architecture, and safety-oriented dynamic quantization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I love hiking and nature. The best places I have been to in my life are Hehuan, Taiwan; Lake Tahoe, US; Zugspitze and Königssee, Germany.
