@@ -13,11 +13,13 @@ During my undergraduate years, I participated in non-profit organizations in Tai
 ## Personal Life
 Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy high-altitude hiking. Here is a list of summits I have been to on the [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):
 
-- Mt Hehuan (Elevation: 3417m)
-- Mt Hehuan E Peak (Elevation: 3421m)
-- Mt Shimen (Elevation: 3237m)
-- Mt Hehuan N Peak (Elevation: 3422m)
-- Mt Yu (Elevation: 3952m; Date: Apr 27, 2025)
-- Mt Yu N Peak (Elevation: 3858m; Date: Apr 27, 2025)
-- Mt Xue E Peak (Elevation: 3201m; Date: May 31, 2025)
-- Mt Xue (Elevation: 3886m; Date: May 31, 2025)
+|  Elevation Rank | Summit Name | Difficulty | Elevation(m) | Recent Date |
+| --------------- | ----------- | ---------- | ------------ | ----------- |
+| 1               |  Mt Yu      |  A         | 3952         | Apr 27 2025 |
+| 2               |  Mt Xue     |  A         | 3886         | May 31 2025 |
+| 4               |  Mt Yu N Peak| B         | 3858         | Apr 27 2025 |
+| 34              |  Mt Hehuan N Peak| A     | 3422         | Oct 05 2024 |
+| 35              |  Mt Hehuan E Peak| A     | 3421         | Oct 05 2024 |
+| 37              |  Mt Hehuan Main Peak| A  | 3417         | Oct 05 2024 |
+| 70              |  Mt Shimen  | A          | 3237         | Oct 05 2024 |
+| 75              |  Mt Xue E Peak | A       | 3201         | May 31 2025 |
