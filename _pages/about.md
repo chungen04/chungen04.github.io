@@ -19,4 +19,4 @@ I received my Bachelor of Science degree in Electrical Engineering, minor Comput
 
 The goal of my research is to make ML serving efficient. I am particularly interested in hardware-efficient algorithms and systems design. My previous research includes interdisplinary topics in efficient ML serving design, including throughput-efficient inference on hardware, CIM architecture, and safety-oriented dynamic quantization.
 
-I love hiking and nature. The best places I have been to in my life are Hehuan, Taiwan; Lake Tahoe, US; Zugspitze and Königssee, Germany.
+I love hiking and nature. The best places I have been to in my life are Mt. Yu N Peak, Taiwan; Lake Tahoe, California, U.S.; and Königssee, Bayern, Germany.
