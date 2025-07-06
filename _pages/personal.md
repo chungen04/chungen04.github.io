@@ -24,6 +24,6 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 | 4               |  Mt Yu N Peak| B         | 3858         | Apr 27 2025 |
 | 34              |  Mt Hehuan N Peak| A     | 3422         | Oct 05 2024 |
 | 35              |  Mt Hehuan E Peak| A     | 3421         | Oct 05 2024 |
-| 37              |  Mt Hehuan Main Peak| A  | 3417         | Oct 05 2024 |
+| 37              |  Mt Hehuan Main Peak| A  | 3417         | Jul 05 2025 |
 | 70              |  Mt Shimen  | A          | 3237         | Oct 05 2024 |
 | 75              |  Mt Xue E Peak | A       | 3201         | May 31 2025 |
