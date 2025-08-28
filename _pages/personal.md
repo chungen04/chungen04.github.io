@@ -11,7 +11,9 @@ nav_order: 3
 During my undergraduate years, I participated in non-profit organizations in Taiwan. I enjoyed my time at [Epoch Foundation](https://epoch.org.tw/en), where I got to explore the exciting intersection between cutting-edge research at Massachusetts Institute of Technology (MIT) and real-world industry needs in Taiwan. As an MIT–Taiwan Industrial Cooperation Research Intern, I followed updates from MIT CSAIL and MIT-ILP, and helped keep 30+ Taiwanese companies in the loop with relevant insights and collaboration opportunities. It was a great chance to bridge research and industry, and to get a behind-the-scenes look at how global innovation partnerships take shape.
 
 ## Personal Life
-Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy high-altitude hiking. Here is a list of summits I have been to on the [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):
+Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy high-altitude hiking. 
+
+**Here is a list of summits I have been to on the [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):**
 
 |  Elevation Rank | Summit Name | Difficulty | Elevation(m) | Recent Date |
 | --------------- | ----------- | ---------- | ------------ | ----------- |
@@ -23,3 +25,9 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 | 37              |  Mt Hehuan Main Peak| A  | 3417         | Oct 05 2024 |
 | 70              |  Mt Shimen  | A          | 3237         | Oct 05 2024 |
 | 75              |  Mt Xue E Peak | A       | 3201         | May 31 2025 |
+
+**Here is a selected list of trails I have been to:**
+
+- [Sword Dragon Ridge](https://share.google/EWmOZfTKNQEVEeU5v), New Taipei City, Taiwan. Featuring knife-edged ridges. Date: Jan 31, 2021.
+- [Taipei Grand Trail](https://taipeigrandtrail.gov.taipei/), Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Capital of Taiwan. Date: Spanning Aug 2023 - Apr 2025.
+- [Mist Trail](https://www.yosemite.com/things-to-do/adventure-activities/the-mist-trail/), California, U.S. Date: July 3, 2023.
