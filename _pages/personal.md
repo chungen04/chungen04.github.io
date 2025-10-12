@@ -15,7 +15,7 @@ nav_order: 3
 I enjoy writing on my [Medium](https://medium.com/@chungen04) for personal thoughts, experiences, and reading notes. Some articles were written in Mandarin.
 
 ## Personal Life
-Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy high-altitude hiking. 
+Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy high-altitude hiking. Currently, I continue seeking hiking opportunities and experiences in the United States.
 
 **Here is a list of summits I have been to on the [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):**
 
@@ -33,5 +33,6 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 **Here is a selected list of trails I have been to:**
 
 - [Sword Dragon Ridge](https://share.google/EWmOZfTKNQEVEeU5v), New Taipei City, Taiwan. Featuring knife-edged ridges. Date: Jan 31, 2021.
-- [Taipei Grand Trail](https://taipeigrandtrail.gov.taipei/), Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Capital of Taiwan. Date: Spanning Aug 2023 - Apr 2025.
+- [Taipei Grand Trail](https://taipeigrandtrail.gov.taipei/), Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Taiwan. Date: Spanning Aug 2022 - Apr 2025.
 - [Mist Trail](https://www.yosemite.com/things-to-do/adventure-activities/the-mist-trail/), California, U.S. Date: July 3, 2023.
+- [Blood Mountain](https://maps.app.goo.gl/apW1y9mTSScCfh859), Part of Appalachian Trail at north Georgia, U.S. Date: Oct 4, 2025.
