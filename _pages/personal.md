@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Professional Activity
+## Extracurricular & Leadership
 - **Epoch Foundation** During my undergraduate years, I participated in non-profit organizations in Taiwan. I enjoyed my time at [Epoch Foundation](https://epoch.org.tw/en), where I got to explore the exciting intersection between cutting-edge research at Massachusetts Institute of Technology (MIT) and real-world industry needs in Taiwan. As an MIT–Taiwan Industrial Cooperation Research Intern, I followed updates from MIT CSAIL and MIT-ILP, and helped keep 30+ Taiwanese companies in the loop with relevant insights and collaboration opportunities. It was a great chance to bridge research and industry, and to get a behind-the-scenes look at how global innovation partnerships take shape.
 - **NTUEE+** [NTUEE+](https://eeplus.ntuee.org) is part of NTUEE Student Association, hosting overseas alumni connection services with undergraduate students. I was a co-director of the organization during 2022-2023.
 
