@@ -19,18 +19,21 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 
 **Here is a list of summits I have been to on the [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):**
 
-|  Elevation Rank | Summit Name | Difficulty | Elevation(m) | Recent Date |
-| --------------- | ----------- | ---------- | ------------ | ----------- |
-| 1               |  Mt Yu      |  A         | 3952         | Apr 27 2025 |
-| 2               |  Mt Xue     |  A         | 3886         | May 31 2025 |
-| 4               |  Mt Yu N Peak| B         | 3858         | Apr 27 2025 |
-| 34              |  Mt Hehuan N Peak| A     | 3422         | Oct 05 2024 |
-| 35              |  Mt Hehuan E Peak| A     | 3421         | Oct 05 2024 |
-| 37              |  Mt Hehuan Main Peak| A  | 3417         | Jul 05 2025 |
-| 70              |  Mt Shimen  | A          | 3237         | Oct 05 2024 |
-| 75              |  Mt Xue E Peak | A       | 3201         | May 31 2025 |
+|  Elevation Rank | Summit Name  | Difficulty | Elevation(m) | Recent Date |
+| --------------- | ------------ | ---------- | ------------ | ----------- |
+| 1               |  Mt Yu       |  A         | 3952         | Apr 27 2025 |
+| 2               |  Mt Xue      |  A         | 3886         | May 31 2025 |
+| 4               |  Mt Yu N Peak|  B         | 3858         | Apr 27 2025 |
+| 17              |  Mt Siangyang|  A         | 3603         | Jan 03 2026 |
+| 27              |  Mt Sancha   |  A         | 3496         | Jan 04 2026 |
+| 34              |  Mt Hehuan N Peak| A      | 3422         | Oct 05 2024 |
+| 35              |  Mt Hehuan E Peak| A      | 3421         | Oct 05 2024 |
+| 37              |  Mt Hehuan Main Peak| A   | 3417         | Jul 05 2025 |
+| 70              |  Mt Shimen  | A           | 3237         | Oct 05 2024 |
+| 72              |  Mt Taguan  | A           | 3222         | Jan 02 2026 |
+| 75              |  Mt Xue E Peak | A        | 3201         | May 31 2025 |
 
-**Here is a selected list of trails I have been to:**
+**Selected list of trails I have been to:**
 
 - [Sword Dragon Ridge](https://share.google/EWmOZfTKNQEVEeU5v), New Taipei City, Taiwan. Featuring knife-edged ridges. Date: Jan 31, 2021.
 - [Taipei Grand Trail](https://taipeigrandtrail.gov.taipei/), Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Taiwan. Date: Spanning Aug 2022 - Apr 2025.
