@@ -33,9 +33,16 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 | 72              |  Mt Taguan  | A           | 3222         | Jan 02 2026 |
 | 75              |  Mt Xue E Peak | A        | 3201         | May 31 2025 |
 
+
 **Selected list of trails I have been to:**
 
-- [Sword Dragon Ridge](https://share.google/EWmOZfTKNQEVEeU5v), New Taipei City, Taiwan. Featuring knife-edged ridges. Date: Jan 31, 2021.
-- [Taipei Grand Trail](https://taipeigrandtrail.gov.taipei/), Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Taiwan. Date: Spanning Aug 2022 - Apr 2025.
-- [Mist Trail](https://www.yosemite.com/things-to-do/adventure-activities/the-mist-trail/), California, U.S. Date: July 3, 2023.
-- [Blood Mountain](https://maps.app.goo.gl/apW1y9mTSScCfh859), Part of Appalachian Trail at north Georgia, U.S. Date: Oct 4, 2025.
+- Walami Trail, Hualien County, Taiwan. Part of the Batongguan Historic Trail. Date: Jul 2020.
+- Sword Dragon Ridge, New Taipei City, Taiwan. Featuring knife-edged ridges. Date: Jan 31, 2021.
+- Taipei Grand Trail, Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Taiwan. Date: Spanning Aug 2022 - Apr 2025.
+- Mist Trail, California, U.S. Date: July 3, 2023.
+- Blood Mountain, Georgia, U.S. Part of Appalachian Trail. Date: Oct 4, 2025.
+
+**Participated trail maintenance serviecs:**
+
+- Highland Experimental Farm, National Taiwan University. Nantou County, Taiwan. Date: Jan 2021.
+- Vogel State Park and Amicalola State Park in Chattahoochee-Oconee National Forest. Georgia, U.S. Date: Oct 2025.
