@@ -15,9 +15,9 @@ nav_order: 3
 I enjoy writing on my [Medium](https://medium.com/@chungen04) for personal thoughts, experiences, and reading notes. Some articles were written in Mandarin.
 
 ## Personal Life
-Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy high-altitude hiking. Currently, I continue seeking hiking opportunities and experiences in the United States.
+Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy trekking and hiking.
 
-**Here is a list of summits I have been to on the [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):**
+**List summited in [100 Peaks of Taiwan](https://en.wikipedia.org/wiki/100_Peaks_of_Taiwan):**
 
 |  Elevation Rank | Summit Name  | Difficulty | Elevation(m) | Recent Date |
 | --------------- | ------------ | ---------- | ------------ | ----------- |
@@ -34,15 +34,20 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 | 75              |  Mt Xue E Peak | A        | 3201         | May 31 2025 |
 
 
-**Selected list of trails I have been to:**
+**Selected trekking in Taiwan:**
 
-- Walami Trail, Hualien County, Taiwan. Part of the Batongguan Historic Trail. Date: Jul 2020.
-- Sword Dragon Ridge, New Taipei City, Taiwan. Featuring knife-edged ridges. Date: Jan 31, 2021.
-- Taipei Grand Trail, Section 1, 5, 6, 7, 8, Taipei, Taiwan. A set of trails that surrounds Taipei City, Taiwan. Date: Spanning Aug 2022 - Apr 2025.
+- Walami Trail, Hualien County. Part of the Batongguan Historic Trail. Date: Jul 2020.
+- Sword Dragon Ridge, New Taipei City. Featuring knife-edged ridges. Date: Jan 31, 2021.
+- Taipei Grand Trail, Section 1, 5, 6, 7, 8, Taipei City. A set of trails that surrounds Taipei. Date: Spanning Aug 2022 - Apr 2025.
+
+**Selected trekking outside Taiwan:**
 - Mist Trail, California, U.S. Date: July 3, 2023.
-- Blood Mountain, Georgia, U.S. Part of Appalachian Trail. Date: Oct 4, 2025.
+- Blood Mountain, Georgia, U.S. Date: Oct 4, 2025; Feb 28, 2026.
+- Laguna de los Tres, Santa Cruz, Argentina. Date: Mar 22, 2026.
+- Laguna Torre, Santa Cruz, Argentina. Date: Mar 24, 2026.
+- Glacier Vinciguerra, Tierra del Fuego, Argentina. Date: Mar 28, 2026.
 
-**Participated trail maintenance serviecs:**
+**Participated trail maintenance services:**
 
 - Highland Experimental Farm, National Taiwan University. Nantou County, Taiwan. Date: Jan 2021.
 - Vogel State Park and Amicalola State Park in Chattahoochee-Oconee National Forest. Georgia, U.S. Date: Oct 2025.
