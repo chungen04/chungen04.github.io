@@ -1,34 +1,42 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Keys are the author's LAST name, lowercased and with accents removed.
+# Each key holds a list, so authors sharing a last name each get their own entry.
+# `firstname` must contain the first name exactly as it appears in papers.bib
+# (list every variant you use, e.g. "Chung-En" and "C.-E.").
+# Leave `url` blank to render the name as plain text.
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"lin":
+  - firstname: ["Hung-Chun"]
+    url:
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+  - firstname: ["Chung-Wei"]
+    url: https://www.csie.ntu.edu.tw/~cwlin/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"hsu":
+  - firstname: ["Ting-Wei"]
+    url:
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"saeed":
+  - firstname: ["Ahmed"]
+    url: https://saeed.github.io
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"tsai":
+  - firstname: ["Chung-Ting"]
+    url:
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+  - firstname: ["H."]
+    url:
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"burr":
+  - firstname: ["G. W."]
+    url: https://research.ibm.com/people/geoffrey-burr
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"sebastian":
+  - firstname: ["Abu", "A."]
+    url:
+
+"narayanan":
+  - firstname: ["Vijay", "V."]
+    url:
+
+  - firstname: ["Pritish", "P."]
+    url:

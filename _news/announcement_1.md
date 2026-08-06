@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started MSCS at Georgia Tech.
+Started MSCS at Georgia Tech at Atlanta, Georgia.

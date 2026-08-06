@@ -41,11 +41,12 @@ Born and raised in Taiwan, where high mountains are dense throughout the island,
 - Taipei Grand Trail, Section 1, 5, 6, 7, 8, Taipei City. A set of trails that surrounds Taipei. Date: Spanning Aug 2022 - Apr 2025.
 
 **Selected trekking outside Taiwan:**
-- Mist Trail, California, U.S. Date: July 3, 2023.
+- Mist Trail, California, U.S. Date: Jul 3, 2023.
 - Blood Mountain, Georgia, U.S. Date: Oct 4, 2025; Feb 28, 2026.
 - Laguna de los Tres, Santa Cruz, Argentina. Date: Mar 22, 2026.
 - Laguna Torre, Santa Cruz, Argentina. Date: Mar 24, 2026.
 - Glacier Vinciguerra, Tierra del Fuego, Argentina. Date: Mar 28, 2026.
+- Black Balsam Knob, North Carolina, U.S. Date: Apr 11, 2026.
 
 **Participated trail maintenance services:**
 
