@@ -3,12 +3,21 @@
 
 @string{aps = {American Physical Society,}}
 
-@unpublished{ho2024,
+@inproceedings{lin-ark-naic-2026,
+  author      = {Hung-Chun Lin,Ting-Wei Hsu,Chung-En Ho,Ahmed Saeed},
+  title       = {ARK: Avoiding Routing Collisions for KV Cache Transfer in Disaggregated LLM Inference},
+  booktitle   = {The 3rd SIGCOMM Workshop on Networks for AI Computing (NAIC)},
+  series      = {NAIC '26},
+  year        = {2026},
+  abstract = {Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfers last hundreds of milliseconds to seconds, they behave as mega elephant flows that dominate link bandwidth utilization. In this regime, stateless ECMP can perform poorly: hash collisions may overload one spine link while leaving others idle, stretching transfer times by seconds. Yet this same persistence makes coordination practical. Since these flows are long-lived, even lightweight one-to-all coordination can be amortized over their lifetime. We present ARK, a distributed elephant-flow path reservation mechanism. ARK coordinates senders to choose source ports whose hashes map concurrent flows onto distinct spines, without requiring switch changes or receiver-side packet reordering. Packet-level RDMA simulations show that ARK reduces mean and P95 FCT by up to 27.3% and 34.0% under moderate load, and further reduces mean TTFT by up to 12.9%.}
+}
+
+@INPROCEEDINGS{ho2026,
   author = {Chung-En Ho, Chung-Ting Tsai, I-Ching Tseng, Chung-Wei Lin},
   title = {A Quantization Strategy for Communication-Efficient DNN Inference in Vehicular Edge Computing},
-  note = {Submitted to IEEE Embedded Systems Letters (ESL)},
+  booktitle={IEEE Embedded Systems Letters (ESL)},
   abstract = {As Deep Neural Network (DNN) applications drive the development of intelligent connected vehicles (ICV), there is a clear need for efficient and reliable DNN processing in ICVs. Vehicular Edge Computing (VEC) is a promising paradigm to meet such demand, where vehicles can cooperate to perform computation tasks. However, there is currently a mismatch between vehicles’ communication capacities and computation capacities, making the communication channel a scarce resource for DNN inference workloads. This paper proposes a design-time deep reinforcement learning (DRL)-based quantization strategy to alleviate this issue under dynamic communication and computing environments in VEC while complying with a pre-defined accuracy drop constraint. Compared to greedy strategies, our results show significant improvements in communication traffic and inference latency.}, 
-  year = {2025}
+  year = {2026}
 }
 
 @INPROCEEDINGS{10413767,

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2026-08-04 00:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper titled *A Quantization Strategy for Communication-Efficient DNN Inference in Vehicular Edge Computing* was accepted to [IEEE Embedded Systems Letters](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=9179054&punumber=4563995).
