@@ -12,7 +12,7 @@ nav_order: 3
 - **NTUEE+** [NTUEE+](https://eeplus.ntuee.org) is part of NTUEE Student Association, hosting overseas alumni connection services with undergraduate students. I was a co-director of the organization during 2022-2023.
 
 ## Writing
-I enjoy writing on my [Medium](https://medium.com/@chungen04) for personal thoughts, experiences, and reading notes. Some articles were written in Mandarin.
+I enjoy writing on my [Medium](https://medium.com/@chungen04) for personal thoughts, experiences, and reading notes. Some articles were written in Mandarin Chinese.
 
 ## Personal Life
 Born and raised in Taiwan, where high mountains are dense throughout the island, I enjoy trekking and hiking.
