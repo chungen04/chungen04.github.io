@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-ARK was accepted to [ACM SIGCOMM Workshop on Networks for AI Computing (NAIC)](https://conferences.sigcomm.org/sigcomm/2026/naic/). Big thanks for the co-authors.
+[ARK](https://dl.acm.org/doi/10.1145/3789240.3828750) was accepted to ACM SIGCOMM Workshop on Networks for AI Computing (NAIC). Big thanks for the co-authors.
