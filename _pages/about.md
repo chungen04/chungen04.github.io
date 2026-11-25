@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a M.S. Computer Science student at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Yingyan Lin](https://people.research.gatech.edu/yingyan-celine-lin).
 
-My research and work is in LLM inference systems. In the summer of 2026, I am building with [DeepInfra](https://deepinfra.com) for the most cost-efficient AI inference cloud.
+My research and work is in LLM inference systems and infrastructure. In 2026, I am building with [DeepInfra](https://deepinfra.com) and [Together AI](https://together.ai) for the best AI inference cloud.
 
 I love hiking and nature. The best places I have been to in my life are Mt. Yu N Peak, Taiwan; El Calafate, Santa Cruz, Argentina; and Königssee, Bayern, Germany.
 
