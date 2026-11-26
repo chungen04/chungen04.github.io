@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -22,6 +22,7 @@ My research and work is in LLM inference systems and infrastructure. In 2026, I 
 I love hiking and nature. The best places I have been to in my life are Mt. Yu N Peak, Taiwan; El Calafate, Santa Cruz, Argentina; and Königssee, Bayern, Germany.
 
 My earlier journey includes:
-* I am originally from Taiwan. I received my B.S. degree in Electrical Engineering in [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU), worked with [Prof. Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/).
-* Given the strength in hardware sector at Taiwan, I worked with [Skymizer](https://skymizer.com/) on hardware specialized for LLM inference.
-* I spent a year studying on the topic of analog Compute-In-Memory for AI, mentored by [Dr. Geoffrey Burr](https://research.ibm.com/people/geoffrey-burr) at [IBM Research Almaden](https://research.ibm.com/labs/almaden), and advised by [Prof. An-Yeu Wu](https://www.ee.ntu.edu.tw/profile1.php?id=65) at NTU.
+
+- I am originally from Taiwan. I received my B.S. degree in Electrical Engineering in [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU), worked with [Prof. Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/).
+- Given the strength in hardware sector at Taiwan, I worked with [Skymizer](https://skymizer.com/) on hardware specialized for LLM inference.
+- I spent a year studying on the topic of analog Compute-In-Memory for AI, mentored by [Dr. Geoffrey Burr](https://research.ibm.com/people/geoffrey-burr) at [IBM Research Almaden](https://research.ibm.com/labs/almaden), and advised by [Prof. An-Yeu Wu](https://www.ee.ntu.edu.tw/profile1.php?id=65) at NTU.
